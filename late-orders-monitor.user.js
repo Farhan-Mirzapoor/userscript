@@ -6,8 +6,8 @@
 // @author       You
 // @match        https://unprintorders.weeorder.co.uk/PreOrders/LateOrders
 // @grant        GM_addStyle
-// @updateURL    https://cdn.jsdelivr.net/gh/Farhan‑Mirzapoor/userscript@main/late-orders-monitor.user.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/Farhan‑Mirzapoor/userscript@main/late-orders-monitor.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/Farhan-Mirzapoor/userscript@main/late-orders-monitor.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/Farhan-Mirzapoor/userscript@main/late-orders-monitor.user.js
 // ==/UserScript==
 
 (function () {
